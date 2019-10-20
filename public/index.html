@@ -5,7 +5,7 @@
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      content="width=device-width, initial-scale=1"
     />
     <meta name="theme-color" content="#000000" />
     <meta
@@ -64,7 +64,7 @@
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {
-          navigator.serviceWorker.register('worker.js').then(function(registration) {
+          navigator.serviceWorker.register('svcWorker.js').then(function(registration) {
             console.log('Worker registration is successful', registration.scope);
           }, function(err) {
             console.log('Worker registration has failed', err);
