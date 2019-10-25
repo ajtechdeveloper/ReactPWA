@@ -1,3 +1,9 @@
+# A Simple React PWA Application
+
+[![Build Status](https://travis-ci.org/ajtechdeveloper/ReactPWA.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/ReactPWA)
+
+For Application setup and usage, please refer to my blog post: [React PWA Tutorial](http://softwaredevelopercentral.blogspot.com/2019/10/react-pwa-tutorial.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
