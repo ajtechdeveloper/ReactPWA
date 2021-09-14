@@ -1,6 +1,6 @@
 # A Simple React PWA Application
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/ReactPWA.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/ReactPWA)
+[![Build Status](https://app.travis-ci.com/ajtechdeveloper/ReactPWA.svg?branch=master)](https://app.travis-ci.com/ajtechdeveloper/ReactPWA)
 
 For Application setup and usage, please refer to my blog post: [React PWA Tutorial](http://softwaredevelopercentral.blogspot.com/2019/10/react-pwa-tutorial.html)
 
